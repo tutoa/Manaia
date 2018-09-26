@@ -1,0 +1,69 @@
+h1 {
+    color:grey
+}
+
+h1 {
+    font-size: 100px;
+     font-family: 'Playball', cursive;
+}
+
+body{
+    background: grey;
+}
+
+
+h2 {
+    color: darkgrey;
+    font-family: 'Yellowtail', cursive;
+}
+
+h3 {
+    color: darkgrey;
+    font-family: 'Yellowtail', cursive;
+}
+
+li {
+    color: darkgrey;
+     font-family: 'Yellowtail', cursive;
+}
+
+#sidebar {
+    width: 25%;
+    height: 1000px;
+    background-color: black;
+    float: left;
+}
+
+#mainArea {
+    float: left;
+    width: 75%;
+}
+
+
+
+/*
+    font-family: 'Bangers', cursive;
+
+    font-family: 'Yellowtail', cursive;
+
+    font-family: 'Playball', cursive;
+*/
+
+
+
+
+.pouButton {
+    width: 80%;
+    height: 350px;
+    background-color: black;
+    margin: 30px;
+    color: darkgrey;
+    font-family: 'Righteous',cursive;
+    font-size: 100px;
+     font-family: 'Bangers', cursive;
+}
+
+
+
+
+
